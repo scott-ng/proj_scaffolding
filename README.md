@@ -1,4 +1,6 @@
 # Overview
+![Workflow](https://github.com/scott-ng/proj_scaffolding/actions/workflows/pythonapp.yml/badge.svg)
+
 
 <TODO: complete this with an overview of your project>
 
