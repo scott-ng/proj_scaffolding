@@ -3,7 +3,7 @@ setup:
 
 install:
 	pip install --upgrade pip &&\
-		pip install -r requirements.txt
+        pip install --trusted-host pypi.python.org -r requirements.txt
 
 test:
 	#python -m pytest -vv --cov=myrepolib tests/*.py
